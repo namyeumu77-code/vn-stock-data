@@ -253,3 +253,19 @@
 2026-08-13 11:37:44,850 [INFO] MSN: ✓ 1 dòng
 2026-08-13 11:37:47,809 [INFO] BID: ✓ 1 dòng
 2026-08-13 11:37:47,809 [INFO] === Xong: 10/10 tickers | 10 dòng mới ===
+2026-08-14 11:34:41,725 [INFO] Fetch từ 2026-08-13 → 2026-08-13
+2026-08-14 11:34:42,146 [INFO] Failed to extract font properties from /usr/share/fonts/truetype/noto/NotoColorEmoji.ttf: Non-scalable fonts are not supported
+2026-08-14 11:34:42,183 [INFO] generated new fontManager
+2026-08-14 11:34:45,317 [INFO] Device registered: cca56bbe7c6ef2789b16be206e2e3b77 (version 0.0.1)
+2026-08-14 11:34:52,464 [INFO] VCB: ✓ 1 dòng
+2026-08-14 11:34:56,813 [INFO] VIC: ✓ 1 dòng
+2026-08-14 11:35:01,382 [INFO] VHM: ✓ 1 dòng
+2026-08-14 11:35:04,961 [INFO] HPG: ✓ 1 dòng
+2026-08-14 11:35:09,029 [INFO] TCB: ✓ 1 dòng
+2026-08-14 11:35:14,108 [INFO] MBB: ✓ 1 dòng
+2026-08-14 11:35:18,248 [INFO] VNM: ✓ 1 dòng
+2026-08-14 11:35:37,422 [INFO] FPT: ✓ 1 dòng
+2026-08-14 11:36:10,733 [ERROR] API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-08-14 11:36:10,733 [ERROR] MSN: Lỗi — API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
+2026-08-14 11:36:16,774 [INFO] BID: ✓ 1 dòng
+2026-08-14 11:36:16,774 [INFO] === Xong: 9/10 tickers | 9 dòng mới ===
