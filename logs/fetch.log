@@ -269,3 +269,18 @@
 2026-08-14 11:36:10,733 [ERROR] MSN: Lỗi — API request failed: HTTPSConnectionPool(host='iq.vietcap.com.vn', port=443): Read timed out. (read timeout=30)
 2026-08-14 11:36:16,774 [INFO] BID: ✓ 1 dòng
 2026-08-14 11:36:16,774 [INFO] === Xong: 9/10 tickers | 9 dòng mới ===
+2026-08-17 11:14:20,782 [INFO] Fetch từ 2026-08-14 → 2026-08-16
+2026-08-17 11:14:21,535 [INFO] Failed to extract font properties from /usr/share/fonts/truetype/noto/NotoColorEmoji.ttf: Non-scalable fonts are not supported
+2026-08-17 11:14:21,674 [INFO] generated new fontManager
+2026-08-17 11:14:23,761 [INFO] Device registered: cca56bbe7c6ef2789b16be206e2e3b77 (version 0.0.1)
+2026-08-17 11:14:25,325 [ERROR] VCB: Lỗi — cannot access local variable 'hosting_service' where it is not associated with a value
+2026-08-17 11:14:26,804 [ERROR] VIC: Lỗi — cannot access local variable 'hosting_service' where it is not associated with a value
+2026-08-17 11:14:27,950 [ERROR] VHM: Lỗi — cannot access local variable 'hosting_service' where it is not associated with a value
+2026-08-17 11:14:28,893 [ERROR] HPG: Lỗi — cannot access local variable 'hosting_service' where it is not associated with a value
+2026-08-17 11:14:29,875 [ERROR] TCB: Lỗi — cannot access local variable 'hosting_service' where it is not associated with a value
+2026-08-17 11:14:30,726 [ERROR] MBB: Lỗi — cannot access local variable 'hosting_service' where it is not associated with a value
+2026-08-17 11:14:31,751 [ERROR] VNM: Lỗi — cannot access local variable 'hosting_service' where it is not associated with a value
+2026-08-17 11:14:32,467 [ERROR] FPT: Lỗi — cannot access local variable 'hosting_service' where it is not associated with a value
+2026-08-17 11:14:33,195 [ERROR] MSN: Lỗi — cannot access local variable 'hosting_service' where it is not associated with a value
+2026-08-17 11:14:34,021 [ERROR] BID: Lỗi — cannot access local variable 'hosting_service' where it is not associated with a value
+2026-08-17 11:14:34,021 [INFO] === Xong: 0/10 tickers | 0 dòng mới ===
