@@ -329,3 +329,18 @@
 2026-08-20 11:15:45,002 [ERROR] MSN: Lỗi — cannot access local variable 'hosting_service' where it is not associated with a value
 2026-08-20 11:15:45,619 [ERROR] BID: Lỗi — cannot access local variable 'hosting_service' where it is not associated with a value
 2026-08-20 11:15:45,620 [INFO] === Xong: 0/10 tickers | 0 dòng mới ===
+2026-08-21 11:15:20,941 [INFO] Fetch từ 2026-08-14 → 2026-08-20
+2026-08-21 11:15:21,326 [INFO] Failed to extract font properties from /usr/share/fonts/truetype/noto/NotoColorEmoji.ttf: Non-scalable fonts are not supported
+2026-08-21 11:15:21,405 [INFO] generated new fontManager
+2026-08-21 11:15:24,630 [INFO] Device registered: f77044c6775f92046dbbc39bdc8d2296 (version 0.0.1)
+2026-08-21 11:15:31,008 [INFO] VCB: ✓ 5 dòng
+2026-08-21 11:15:34,138 [INFO] VIC: ✓ 5 dòng
+2026-08-21 11:15:37,404 [INFO] VHM: ✓ 5 dòng
+2026-08-21 11:15:40,862 [INFO] HPG: ✓ 5 dòng
+2026-08-21 11:15:43,980 [INFO] TCB: ✓ 5 dòng
+2026-08-21 11:15:46,638 [INFO] MBB: ✓ 5 dòng
+2026-08-21 11:15:49,306 [INFO] VNM: ✓ 5 dòng
+2026-08-21 11:15:52,188 [INFO] FPT: ✓ 5 dòng
+2026-08-21 11:15:55,149 [INFO] MSN: ✓ 5 dòng
+2026-08-21 11:15:59,222 [INFO] BID: ✓ 5 dòng
+2026-08-21 11:15:59,222 [INFO] === Xong: 10/10 tickers | 50 dòng mới ===
